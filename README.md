@@ -1,1 +1,1 @@
-Memorize ganme just for xcode study
+Memorize game just for xcode study
